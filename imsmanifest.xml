@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes" version="1.2"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+    </metadata>
+    <organizations default="org_course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes">
+        <organization identifier="org_course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes">
+            <title>Módulo 1: El CCN y el Compromiso del Sector Turístico y de Viajes</title>
+            <item identifier="item_course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes" identifierref="res_course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes" isvisible="true">
+                <title>Módulo 1: El CCN y el Compromiso del Sector Turístico y de Viajes</title>
+                <adlcp:masteryscore>70</adlcp:masteryscore>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="res_course_modulo_1_el_ccn_y_el_compromiso_del_sector_turistico_y_de_viajes" type="webcontent" adlcp:scormtype="sco" href="index.html">
+            <file href="index.html"/>
+            <file href="scorm_api.js"/>
+            <file href="assets/brand_logo.png"/>
+            <file href="assets/slide_01.png"/>
+            <file href="assets/slide_01_layer_0.png"/>
+            <file href="laminas/lamina_slide_01.png"/>
+            <file href="modals/modal_slide_01_0.png"/>
+            <file href="modals/modal_slide_01_1.png"/>
+            <file href="laminas/lamina_slide_02.png"/>
+            <file href="modals/modal_slide_02_0.png"/>
+            <file href="modals/modal_slide_02_1.png"/>
+            <file href="modals/modal_slide_02_2.png"/>
+            <file href="assets/slide_03.png"/>
+            <file href="assets/slide_03_layer_5.png"/>
+            <file href="laminas/lamina_slide_03.png"/>
+            <file href="modals/modal_slide_03_0.png"/>
+            <file href="modals/modal_slide_03_1.png"/>
+            <file href="modals/modal_slide_03_2.png"/>
+            <file href="assets/slide_04.png"/>
+            <file href="assets/slide_04_layer_7.png"/>
+            <file href="laminas/lamina_slide_04.png"/>
+            <file href="modals/modal_slide_04_0.png"/>
+            <file href="laminas/lamina_slide_05.png"/>
+            <file href="laminas/lamina_slide_06.png"/>
+            <file href="laminas/lamina_slide_07.png"/>
+            <file href="assets/slide_08.png"/>
+            <file href="assets/slide_08_layer_5.png"/>
+            <file href="laminas/lamina_slide_08.png"/>
+            <file href="laminas/lamina_slide_09.png"/>
+            <file href="laminas/lamina_slide_10.png"/>
+            <file href="laminas/lamina_slide_11.png"/>
+            <file href="laminas/lamina_slide_12.png"/>
+            <file href="laminas/lamina_slide_13.png"/>
+            <file href="laminas/lamina_slide_14.png"/>
+            <file href="laminas/lamina_slide_15.png"/>
+            <file href="assets/slide_16.png"/>
+            <file href="laminas/lamina_slide_16.png"/>
+        </resource>
+    </resources>
+</manifest>
